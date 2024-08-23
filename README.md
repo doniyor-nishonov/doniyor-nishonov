@@ -32,7 +32,7 @@ I'm a passionate **Java Developer** with experience in building high-performance
 
 ## 📫 Connect with me:
 <p align="left">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
+  <a href="mailto:nishonovd80@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
   <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="[https://linkedin.com/doniyor-nishonov-9b1520315](https://www.linkedin.com/in/doniyor-nishonov-9b1520315/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
