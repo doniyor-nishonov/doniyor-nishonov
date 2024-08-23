@@ -13,11 +13,12 @@ I'm a passionate **Java Developer** with experience in building high-performance
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Jakarta%20EE-542583?style=for-the-badge&logo=jakartaee&logoColor=white" alt="Jakarta EE"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 </p>
 
@@ -25,7 +26,7 @@ I'm a passionate **Java Developer** with experience in building high-performance
 
 ## 📊 Contributions:
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aliabbos-Ashurov&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doniyor-nishonov&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak"/>
 </p>
 
 ---
