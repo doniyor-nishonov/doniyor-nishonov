@@ -72,9 +72,13 @@ I’m a passionate **Java Developer** with experience in building high-performan
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="55" height="55"/>
   </a>
 </div>
-<div style="margin-top: 10px;">
+<div style="margin-top: 10px; display: flex; align-items: center; gap: 10px;">
+  <a href="mailto:nishonovd80@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Email GIF" width="40" height="40"/>
+  </a>
   <a href="mailto:nishonovd80@gmail.com" target="_blank" style="text-decoration: none; font-size: 20px; color: #0073e6;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Email_icon.svg" alt="Email" width="20" height="20"/> 📧 Email me
+    📧 Email me
   </a>
 </div>
+
 
